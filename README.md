@@ -45,5 +45,5 @@ Bu proje, PIC16F877A mikrodenetleyici tabanlı bir ev tipi klima/ısı kontrol s
 ## Proje Görselleri
 
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/099ab990-e500-4242-9d70-5237c2a0523c" />
-<img width="400" height="370" alt="image" src="https://github.com/user-attachments/assets/b00826ff-c760-478d-abe1-d111a1b149fc" />
+<img width="400" height="320" alt="image" src="https://github.com/user-attachments/assets/b00826ff-c760-478d-abe1-d111a1b149fc" />
 
